@@ -1,4 +1,4 @@
-Explicação:
+Explicação:\n
 Serão usados 4 terminais
 terminal 1 será usado para enviar mensagens e verificar quem está online usando: ./chat
 terminal 2 seŕa onde vai chegar as mensagens usando: sub_msgs
